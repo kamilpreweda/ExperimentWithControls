@@ -17,7 +17,7 @@ namespace ExperimentWithControls
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
-    /// </summary>
+    /// </summary>d
     public partial class MainWindow : Window
     {
         public MainWindow()
